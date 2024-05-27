@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    text-align: justify;
+  }
+  
+  
+  .main {
+    padding: 20px;
+  }
+  
+  
+  .post-image {
+    width: 100%;
+    max-width: 80%;
+    box-align: center;
+  }
+  
+
+  /* Added styling for h1 */
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 38px;
+    width: 80%;
+    margin-bottom: 5px;
+    padding-left: 10%;
+    text-align: center;
+    color: slateblue;
+  }
+
+  h1 span {
+    color: coral;
+    font-family: cursive;
+    font-size: 42px;
+  }
+
+    /* Added styling for para */
+  p {
+    text-align: justify;
+    width: 100%;
+    padding-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+
+p span {
+  font-size: 60px;
+  font-weight: 600;
+  color: coral;
+
+
+}
+
+    /* styling read more button */
+  .read-more {
+    background-color: slateblue;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+  }
